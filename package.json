@@ -3,9 +3,20 @@
     "displayName": "Himalaya Theme",
     "description": "A cool VS Code theme",
     "version": "0.0.1",
+    "author":{
+        "name": "Leonardo M. Oliveira"
+    },
     "engines": {
         "vscode": "^1.59.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/leonardomartelli/himalaya-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/leonardomartelli/himalaya-theme/issues"
+    },
+    "publisher": "leonardomartelli",
     "categories": [
         "Themes"
     ],
