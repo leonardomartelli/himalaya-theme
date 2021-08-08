@@ -1,0 +1,33 @@
+{
+    "name": "himalaya-theme",
+    "displayName": "Himalaya Theme",
+    "description": "A cool VS Code theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Hymalaia",
+        "Dark-Theme",
+        "Dracula",
+        "Darcula",
+        "blue",
+        "navy",
+        "dark-blue",
+        "escuro",
+        "marinho"
+    ],
+    "icon": "images/icon/hima.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Himalaya Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/himalaya-theme-color-theme.json"
+            }
+        ]
+    }
+}
