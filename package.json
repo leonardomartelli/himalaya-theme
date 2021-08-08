@@ -2,7 +2,7 @@
     "name": "himalaya-theme",
     "displayName": "Himalaya Theme",
     "description": "A cool VS Code theme",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author":{
         "name": "Leonardo M. Oliveira"
     },
@@ -23,8 +23,6 @@
     "keywords": [
         "Hymalaia",
         "Dark-Theme",
-        "Dracula",
-        "Darcula",
         "blue",
         "navy",
         "dark-blue",

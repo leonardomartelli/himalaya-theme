@@ -1,6 +1,9 @@
 # Himalaya Theme for VS Code
 
 Thanks for checking out Himalaya Theme for VS Code. The color pallete is from a pic that i found on internet time ago.
+
+![image info](./images/screenshot.png)
+
 ## Installation
 
 1. Open the extensions sidebar on Visual Studio Code
